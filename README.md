@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+🔭 I’m currently working on building intuitive and responsive Frontend interfaces using modern web technologies.
+🌱 I’m currently learning advanced React patterns, performance optimization, and exploring UI/UX principles.
+👯 I’m looking to collaborate on open-source Frontend projects, especially those involving React or Next.js.
+🤔 I’m looking for help with mastering scalable Frontend architecture and contributing to large codebases.
+💬 Ask me about Frontend development, React, Tailwind CSS, or anything related to crafting great user experiences!
+😄 Pronouns: He/Him
+⚡ Fun fact: I love turning complex problems into clean, user-friendly solutions—and I always have 10+ tabs open when coding!
 <!--
 **Jelchi/Jelchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
